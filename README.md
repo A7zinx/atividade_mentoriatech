@@ -8,36 +8,6 @@ Repositório criado para a Primeira Avaliação da disciplina Mentoria Tech sobr
 
 ## 👨‍💻 Aluno
 
-*   **Nome:** `[SEU NOME COMPLETO]`
-*   **Matrícula:** `[SUA MATRÍCULA]`
-
----
-
-## 👨‍🏫 Professor
-
-*   **Nome:** Helio Lima/Francisco Coelho
-
----
-
-## 📝 Atividades
-
-O projeto consiste na implementação de duas atividades principais:
-
-| Atividade    | Descrição                                                                                                                                                           |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Atividade 01** | Simular um sistema escolar, recebendo 8 notas anuais. Deve calcular e exibir as médias bimestrais, médias semestrais e a média final de forma clara.                 |
-| **Atividade 02** | Receber uma temperatura em graus Celsius (`°C`). Deve realizar a conversão para Fahrenheit (`°F`) e Kelvin (`K`), e exibir todos os resultados. |
-
-# Lógica de Programação - Primeira Avaliação (Java)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-Repositório criado para a Primeira Avaliação da disciplina Mentoria Tech sobre Lógica de Programação em Java, com foco na implementação de algoritmos em Java. O projeto contém duas atividades práticas: a simulação de um sistema escolar para cálculo de médias (bimestrais, semestrais e final) e um programa para a conversão de temperaturas entre as escalas Celsius, Fahrenheit e Kelvin.
-
----
-
-## 👨‍💻 Aluno
-
 *   **Nome:** `ANTÔNIO LUIZ LEAL DE OLIVEIRA`
 *   **Email:** `antonio.leal.2009@aluno.edu.pi.gov.br`
 
@@ -151,3 +121,4 @@ Após o primeiro envio, use este fluxo mais simples para enviar suas atualizaç�
     git push origin main
     ```
 #
+
